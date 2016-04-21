@@ -12,7 +12,7 @@
 * Defense is to keep a sequence identifier.
 
 ####Session Hijacking attack
-* This exploits the web session control mechanism. It exploits a valid computer session to gain unautherized access to information in a system.
+* This exploits the web session control mechanism. It exploits a valid computer session to gain unauthorized access to information in a system.
 
 ####Sniffer attack
 * A sniffer is an application that can capture network packets. If the network packets are not encrypted, the data within the network packet can be read using a sniffer.
